@@ -1,4 +1,4 @@
-# 🚗 Predicción de Valor de Vehículos
+#  Predicción de Valor de Vehículos
 
 **Ciencias de la Computación - CECAR**  
 Docente: Carlos Darys Arroyo Pérez
